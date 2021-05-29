@@ -1,7 +1,8 @@
 ---
-name: Generic PR Template
+name: Request for Comments
+about: Create a central point for discussion of particularly complex concepts
 title: ''
-labels: needs-triage
+labels: "needs-triage"
 assignees: ''
 ---
 
